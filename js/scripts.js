@@ -21,7 +21,3 @@ $(document).ready(function(){
         $('#reservationModal').modal('toggle');
     });
 });
-
-/*$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip();
-});*/
